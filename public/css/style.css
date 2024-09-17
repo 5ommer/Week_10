@@ -6,8 +6,8 @@
 
 
 body {
-    background-color: #eaa7a7;
-    color: #333;
+    background-color: #fbfaf9;
+    color: #e60a0ae7;
     font-family: Arial, sans-serif;
     font-size: 16px;
     margin: 0;
@@ -149,7 +149,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     margin: 10px 0 0;
-    color: #555;
+    color: #f3ebeb;
 }
 
 .movie-card .movie-info-actions ul {
@@ -167,7 +167,7 @@ body {
 .movie-card .movie-info-actions a {
     align-items: center;
     background-color: #fff;
-    border: 2px solid #c60e98;
+    border: 2px solid #f308b8;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -189,7 +189,7 @@ body {
 footer {
     margin-top: 20px;
     padding: 20px;
-    background-color: #333;
+    background-color: #efe6e6e4;
     color: #ffffff;
     text-align: center;
 }
